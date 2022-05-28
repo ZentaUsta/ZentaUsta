@@ -1,4 +1,4 @@
-### Selam 👋
+### Merhaba 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/Meinos10/ZentaUsta)](https://github.com/ZentaUsta/ZentaUsta)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=dark_blue&link=t.me/XSkele)](https://t.me/XSkele)
